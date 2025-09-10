@@ -1,2 +1,8 @@
-# code-wars
-Repositório para demonstrar minhas resoluções do codewars.com (Leet Code), e mostrar meu crescimento, utilizado deno como motor e TypeScript como linguagem
+Repositório dedicado às minhas resoluções de desafios do CodeWars
+ e LeetCode
+.
+O objetivo é registrar meu crescimento como desenvolvedor, praticando lógica de programação, algoritmos e boas práticas.
+
+🛠 Motor: Deno
+
+📌 Linguagem: TypeScript
