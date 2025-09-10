@@ -2,7 +2,7 @@
 <p>objetivo é registrar meu crescimento como desenvolvedor, praticando lógica de programação, algoritmos e boas práticas.
 </p>
 <ul>
-    <li>🛠 Motor: <a href="https://deno.com">Deno</a></li>
+    <li>🛠️ Motor: <a href="https://deno.com">Deno</a></li>
     <li>📌 Linguagem: <a href="https://typescriptlang.org"> TypeScript</a></li>
     <li>🖥️ Editor: <a href="https://neovim.io">Neovim (nvim)</a></li>
 </ul>
